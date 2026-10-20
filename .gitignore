@@ -1,7 +1,9 @@
 venv/
 __pycache__/
 logs/
+data/
 results.csv
 .env
 .streamlit/secrets.toml
 *.key
+xray_model.pt
